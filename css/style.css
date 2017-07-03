@@ -1,0 +1,11 @@
+.container {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 80%;
+	margin: 20px auto;
+	color: #3a3a3a;
+}
+
+.container h1 {
+	text-transform: uppercase;
+	border-bottom: 3px solid black;
+}
